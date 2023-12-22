@@ -5,6 +5,6 @@ while [ $i -le 10 ]; do
 	echo -e "Best School"
 	((i++))
 	if [ $i -eq 10 ]; then
-		echo -e "hi"
+		echo -e "Hi"
 	fi
 done
