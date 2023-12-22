@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-# print infinity of sentence saying To infinity and beyond
+# A Bash script that displays To infinity and beyond indefinitely
+# In between each iteration of the loop, a sleep 2 is added
 
-while true; do
+while true
+do
 	echo "To infinity and beyond"
-	sleep 1
+	sleep 2
 done
