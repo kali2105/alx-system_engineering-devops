@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# showing all active and running programs and processes
+ps auxf
