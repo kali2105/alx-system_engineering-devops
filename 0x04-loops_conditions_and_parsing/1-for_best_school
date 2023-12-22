@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# writing Best School teen times
+for((i = 0; i <= 9; i ++));do
+echo 'Best School'
+done
