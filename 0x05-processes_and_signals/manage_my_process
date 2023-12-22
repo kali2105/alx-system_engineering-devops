@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# A Bash script that's :
+#	Indefinitely writes I am alive! to the file /tmp/my_process
+#	Between each of them it should pause for 2 seconds
+
+while true
+do
+  echo "I am alive!" >> /tmp/my_process
+  sleep 2
+done
